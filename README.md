@@ -1,4 +1,4 @@
-Ty Friedman - Lab 6 Report
+Ty Friedman - Conway's Game of Life
 
 The program works in two modes:
 
